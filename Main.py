@@ -1,3 +1,4 @@
+###rk!!
 def make_lists():
   with open("hamlet.txt") as hamlet:
     text = hamlet.read() 
